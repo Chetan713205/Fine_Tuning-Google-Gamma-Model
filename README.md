@@ -51,10 +51,10 @@ Dropout --> Output[🎯 Output Layer + Sigmoid]
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/fine-tune-gamma.git
+git clone https://github.com/Chetan713205/fine-tune-gamma.git
 
 # Navigate to project folder
-cd fine-tune-gamma
+cd Fine_Tuning-Google-Gamma-Model
 
 # Install dependencies
 pip install -r requirements.txt
@@ -101,10 +101,8 @@ pip install -r requirements.txt
 ## 🙌 Acknowledgments
 
 * Dataset: 📂 *\[Dataset Source]*
-* Libraries: 🐍 Python, TensorFlow/Keras, NumPy, Pandas, Matplotlib
+* Libraries: 🐍 Python, Pytorch, HuggingFace, Transformer, PEFT
 
 ---
 
 **📌 Author:** Chetan Tiwari
-Would you like me to create those image diagrams now so your README looks polished even without Mermaid support?
-```
